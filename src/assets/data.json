@@ -2,39 +2,49 @@
  "Categories" : [ 
                     {
                         "value" : 1,
-                        "text": "Blue Cat"
+                        "text": "Category 1"
                     },
                     {
                         "value" : 2,
-                        "text": "Red Cat"
+                        "text": "Category 2"
                     },
                     {
                         "value" : 3,
-                        "text": "Green Cat"
+                        "text": "Category 3"
+                    },
+                    {
+                        "value" : 4,
+                        "text": "Category 4"
                     }
                 ],
  "Bank": [
             {
                 "qid" : 1,
-                "question" : "What's your favorite color out of the following?",
+                "question" : "Which answer would you choose?",
                 "answers" : [
                     {
                         "key" : 1,
-                        "text" : "Blue",
-                        "points" : 4,
+                        "text" : "Answer 1",
+                        "points" : 1,
                         "category": 1
                     },
                     {
                         "key" : 2,
-                        "text" : "Red",
-                        "points" : 4,
+                        "text" : "Answer 2",
+                        "points" : 1,
                         "category": 2
                     },
                     {
                         "key" : 3,
-                        "text" : "Green",
-                        "points" : 4,
+                        "text" : "Answer 3",
+                        "points" : 1,
                         "category": 3
+                    },
+                    {
+                        "key" : 4,
+                        "text" : "Answer 4",
+                        "points" : 1,
+                        "category": 4
                     }
                 ]
             }

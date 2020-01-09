@@ -535,6 +535,7 @@ button{
     filter: alpha(opacity=0);
     min-height: 100%;
     min-width: 100%;
+    max-height: 30px;
     opacity: 0;
     position: absolute;
     right: 0;

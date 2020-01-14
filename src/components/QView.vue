@@ -489,19 +489,14 @@ div {
 }
 
 button{
+  color: white;
+  background-color: #2c3e77;
   max-height: 150px;
   max-width: 150px;
-  opacity: 100%;
 }
 
 .smooth-enter-active, .smooth-leave-active {
   transition: max-height .75s ease-in-out, max-width 250ms ease-in-out, opacity .5s ease-in-out,;
-}
-
-.smooth-enter, .smooth-leave-to {
-  max-height: 0;
-  max-width: 0;
-  opacity: 0%;
 }
 
 .catnum{

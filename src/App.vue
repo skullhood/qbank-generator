@@ -38,9 +38,7 @@ export default {
 
 button {
   margin: 5px;
-  background-color: #AAAAAA; /* Green */
   border: none;
-  color: white;
   padding: 7px 14px;
   text-align: center;
   text-decoration: none;
@@ -52,8 +50,6 @@ button {
 }
 
 button:hover{
-  background-color: #4CAF50; /* Green */
-  color: white;
   cursor: pointer;
 }
 
